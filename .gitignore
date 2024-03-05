@@ -9,6 +9,7 @@
 
 # dfx temporary files
 .dfx/
+*.did
 
 # generated files
 src/declarations/
